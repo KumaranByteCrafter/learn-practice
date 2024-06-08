@@ -1,0 +1,3 @@
+Anatomy of c code:
+    - it have a function called main
+    - entry point of execution is main()
