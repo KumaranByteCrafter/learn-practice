@@ -13,5 +13,18 @@ Syntax:
         - it is tightly coupled - we have to specify the type of variable
     basic data types:
         integer,float,double,char
-        eg : int a = 10;
-        
+        eg : int a = 10;//it also the automatic variable
+        automatic variable : normal variable used in program
+        static variable : 
+            retains it value between multiple function calls
+            eg:
+                void fun(){
+                    static int y=5;
+                    y = y + 1
+                    printf("y = %d",y);
+                }
+                int main(){
+                    fun();//6
+                    fun();//7
+                    fun();//8
+                }
