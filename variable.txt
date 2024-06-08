@@ -41,7 +41,10 @@ Syntax:
                     printf("%d",MIN(a,b))
         #undef - to undefined the constant or macro define by $define
     function:
-    Library function - predefined functions
-     - Mathamtical Library
-     - console input/output functions
-     - string functions
+        Library function - predefined functions
+            - Mathamtical Library
+            - console input/output functions
+            - string functions
+    definition : a block of statements used for executing a particular task
+        - it can be called wherever its required
+        
