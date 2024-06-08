@@ -28,3 +28,5 @@ Syntax:
                     fun();//7
                     fun();//8
                 }
+            in each function call the last updated value will be considered for further execution
+            
