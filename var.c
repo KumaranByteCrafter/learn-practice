@@ -10,5 +10,4 @@ int main(){
     printf("value of b is %d\n",b);//%d for integer
     printf("value of f is %f\n",f);// %f for float 
     printf("value of i is %c",i);// %c for character
-    printf("value of j is ")
 }
