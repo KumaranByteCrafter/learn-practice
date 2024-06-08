@@ -1,7 +1,11 @@
 #include<stdio.h>
 #define AB 10
-#undef AB
-int main()
+void fun()
 {
-    printf("AB is %d\n",AB);
+    int s = AB * 100;   
+    printf("s is %d\n",s);
+}
+#undef AB
+int main(){
+    fun();
 }
