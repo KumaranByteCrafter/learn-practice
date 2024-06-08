@@ -29,4 +29,13 @@ Syntax:
                     fun();//8
                 }
             in each function call the last updated value will be considered for further execution
-            
+         constant var:
+            #define - we can create constant vars.
+            # - pre-processor directive
+            eg:
+                Micro:
+                    #define Pi3.14
+                    circle area: Pi*r*r
+                Macro :
+                    #define MIN(a,b) = ((a)<(b)?(a):(b))
+                    printf("%d",MIN(a,b))
