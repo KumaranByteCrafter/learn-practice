@@ -39,3 +39,9 @@ Syntax:
                 Macro :
                     #define MIN(a,b) = ((a)<(b)?(a):(b))
                     printf("%d",MIN(a,b))
+        #undef - to undefined the constant or macro define by $define
+    function:
+    Library function - predefined functions
+     - Mathamtical Library
+     - console input/output functions
+     - string functions
