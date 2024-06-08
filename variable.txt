@@ -1,0 +1,17 @@
+Runtime execution:
+    variable data is stores on ram space - volatile memory
+    non-volatile memory: secondary storage space - hard disk
+
+variable:
+    -used to specify the location of data
+    -label for location data
+    -it may change during program execution
+Syntax:
+
+    Syntax :data_type var_name
+        - we need to declare the datatype before use the variable
+        - it is tightly coupled - we have to specify the type of variable
+    basic data types:
+        integer,float,double,char
+        eg : int a = 10;
+        
