@@ -1,0 +1,7 @@
+BODMAS
+ B - Brackers
+ O - prder of (power of ,exp)
+ D - Division
+ M - multiplication
+ A - Addtion
+ S - subtraction
