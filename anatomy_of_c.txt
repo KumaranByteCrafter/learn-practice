@@ -1,3 +1,5 @@
 Anatomy of c code:
     - it have a function called main
     - entry point of execution is main()
+    - it should include the header file
+    - all instruction should end with a semi colon (;)
