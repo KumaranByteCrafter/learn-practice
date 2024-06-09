@@ -1,7 +1,7 @@
 #include<stdio.h>
 void fun()
 {
-    static int  y=5;
+    static int  y=0;
     y=y+1;
     printf("y = %d\n",y);
 }
