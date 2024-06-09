@@ -4,6 +4,7 @@ int main(){
     while(z<10)
     {
         printf("x = %d\n",z);
-        ++z;
+        int a = z++;
+        printf("a = %d\n",a);
     }
 }
