@@ -47,4 +47,27 @@ Syntax:
             - string functions
         definition : a block of statements used for executing a particular task
             - it can be called wherever its required
-        
+        User-Defined function:
+            -   User will create their own function
+            Syntax for function declation:
+                return_type function_name(...argumentsdeclaration);
+            function definition:
+                return_type function_name(...argumentsdeclaration)
+                {
+                    //function block
+                }
+            function call:
+                - a function will be called from another function or main function
+                Syntax:
+                Main(){
+                    function_name(args);
+                }
+            return_type of function:
+                after execution block of statements the funcion want to return some results to the caller
+            Void - nothing will be return or no need to return anything
+            int -  integer will be return from the funcion
+            float - fun will return in  float
+
+            Types of function as per call statements:
+             - call by value
+             - call by reference [address of value will be used]
