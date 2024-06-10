@@ -26,3 +26,11 @@ if(condition stmt 1){//if sony avalible
     //block stmt
     come home
 }
+Nested if:
+    Parent condition and child conditions
+if(condition stmt){//if condition true then go to the block
+    //block stmt
+    if(condition stmt){
+        //block stmt
+    }
+}
