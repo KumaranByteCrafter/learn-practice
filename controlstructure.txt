@@ -9,3 +9,9 @@ simple if condition:
         //block stmt
         purchase the tv
     }
+if else condition:
+    if(condition stmt){
+        //block stmt
+    }else{
+        //block stmt
+    }
