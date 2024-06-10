@@ -5,9 +5,10 @@ int main(){
     scanf("%d",&num1);
     if(num1>0){
         if(num1<10)
-            printf("value within 0 to 9\n");
+            printf("value within 0 to 9");
         else
-            printf("value not within 0 to 9\n");
+            printf("value not within 0 to 9");
     }else
         printf("value is -ve");
+    printf("\n");
 }
