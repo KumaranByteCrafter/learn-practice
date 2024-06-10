@@ -16,10 +16,10 @@ if else condition:
         //block stmt
     }
 if else ladder:
-if(condition stmt){//if sony avalible
+if(condition stmt 1){//if sony avalible
     //block stmt
     purchase
-}else if(condition stmt){//if samsang avalible
+}else if(condition stmt 2){//if samsang avalible
     //block stmt
     purchase
 }else{ //if not then do the else block 
