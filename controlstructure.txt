@@ -1,0 +1,11 @@
+Control structure:
+    - Simple If condition
+    - if-else condition
+    - if else ladder stmt
+    - nested if condition
+simple if condition:
+    if(condition stmt)//eg : if sony avalible then block stmt execute
+    {
+        //block stmt
+        purchase the tv
+    }
