@@ -15,3 +15,14 @@ if else condition:
     }else{
         //block stmt
     }
+if else ladder:
+if(condition stmt){//if sony avalible
+    //block stmt
+    purchase
+}else if(condition stmt){//if samsang avalible
+    //block stmt
+    purchase
+}else{ //if not then do the else block 
+    //block stmt
+    come home
+}
