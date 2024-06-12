@@ -1,0 +1,6 @@
+Loops in c:
+    1) For
+    2) While
+    3) Do While
+for Loops: - traditional for Loop
+    for - keyword
