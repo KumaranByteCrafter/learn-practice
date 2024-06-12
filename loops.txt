@@ -4,3 +4,7 @@ Loops in c:
     3) Do While
 for Loops: - traditional for Loop
     for - keyword
+    for(intialization;condition;updation)
+    {
+        //block of code
+    }
